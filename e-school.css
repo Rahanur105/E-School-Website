@@ -1,0 +1,208 @@
+.banner {
+    background-color: #f0fff0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+   
+  }
+
+  
+  .logo img{
+    /* Add styles for the logo here */
+    width: 198.07px;
+    height: 59px;
+    margin-left: 250px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 300px;
+  }
+  
+  nav li {
+    margin: 0 30px;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    width: 104px;
+    height: 43px;
+    
+  }
+
+  .color-1{
+    font-size: 20px;
+    
+  }
+
+ .h5{
+    color: red;
+ }
+ .green{
+    color: green;
+ }
+ .size{
+    font-size: 40px;
+ }
+ .btn{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+ }
+
+ .left{
+    padding-left: 100px;
+    margin-top: 100px;
+    
+}
+.right img{
+  width: 510px;
+  right: 346px;
+}
+
+.card {
+  width: 270px;
+  height: 270px;
+  background-color: #fdfdfd;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  border: none;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 14px;
+  color: #666;
+}
+
+.ios1 img{
+  width: 66px;
+  height: 85px;
+}
+
+.ios2 img{
+  width: 80px;
+  height: 83px;
+}
+
+.ios3 img{
+  width: 75px;
+  height: 80px;
+}
+
+.ios4 img{
+  width: 68px;
+  height: 76px;
+}
+
+.cen1{
+ text-align: center;
+}
+
+
+
+.card1 {
+  width: 370px;
+  height: 500px;
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  box-shadow: 5px 5px 10px;
+  border-radius: 18px;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.card1 img {
+  margin-bottom: 50px;
+  width: 331px;
+  height: 234px;
+}
+
+.card1 h2 {
+  margin-bottom: 10px;
+}
+
+.card1 p {
+  margin-bottom: 5px;
+}
+.mac{
+  background-color: #21B573;
+  border-radius: 8px;
+}
+
+.coffe{
+  text-align: center;
+}
+
+.it img{
+  width: 120px;
+  height: 120px;
+ 
+ 
+}
+.win{
+  width: 650px;
+  
+}
+
+.javaios{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.column {
+  flex: 1;
+}
+
+.column h3 {
+  font-size: 18px;
+}
+
+.column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.column li {
+  margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
